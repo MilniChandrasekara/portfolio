@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.fe30cda1.css",
+    "main.js": "/portfolio/static/js/main.5925608b.js",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.dd236ab1c1b3cec1de16.pdf",
+    "static/media/personal_finance_dashboard.jpg": "/portfolio/static/media/personal_finance_dashboard.0ab2bbc9b7d73d944c9f.jpg",
+    "static/media/SuperpowersTracker.jpg": "/portfolio/static/media/SuperpowersTracker.02454eb2f3c0ee4b3a6a.jpg",
+    "static/media/Glucolens.jpg": "/portfolio/static/media/Glucolens.9fe52e962ae4602c8688.jpg",
+    "static/media/portfolio.jpg": "/portfolio/static/media/portfolio.f9b613fce861985f54e4.jpg",
+    "static/media/sales_dashboard.jpg": "/portfolio/static/media/sales_dashboard.118a018730379390ef83.jpg",
+    "static/media/Ecommerce_webstore.jpg": "/portfolio/static/media/Ecommerce_webstore.7df927122b804ba63e26.jpg",
+    "static/media/Student_management_system.jpg": "/portfolio/static/media/Student_management_system.b5561c1c01d37091b306.jpg",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.ebb54dccfd832f7c2936.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.fe30cda1.css.map": "/portfolio/static/css/main.fe30cda1.css.map",
+    "main.5925608b.js.map": "/portfolio/static/js/main.5925608b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe30cda1.css",
+    "static/js/main.5925608b.js"
+  ]
+}
